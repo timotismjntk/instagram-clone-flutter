@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "637004713604",
+    "project_id": "instagram-clone-timo-project",
+    "storage_bucket": "instagram-clone-timo-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637004713604:android:ed7922e107af8555ea7cd1",
+        "android_client_info": {
+          "package_name": "com.timotiustech.instagram_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637004713604-2fs63qo4135flbnsg0qp0oqmj9jehdpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD1T3GIuDiiuL9q8YGwtunb4QH1sCCYa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637004713604-2fs63qo4135flbnsg0qp0oqmj9jehdpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
